@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Jainam Sakariya",
+      "mobile": "9558349327",
+      "email": "jaina@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "yash patel",
+      "mobile": "2136131615",
+      "email": "yash@gmail.com",
+      "password": "4567",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
